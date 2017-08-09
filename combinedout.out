@@ -1,0 +1,15 @@
+.text
+00851021
+00e83025
+01200008
+0150502a
+0253882b
+0c000000
+014b0ac9
+
+.symbol
+4	label
+4	l1
+
+.relocation
+32	label
